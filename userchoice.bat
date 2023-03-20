@@ -1,0 +1,2 @@
+if "%choice%"=="1" set userchoice=fire&set done=true&set sfname=Matt &set smname=false&set slname=Castaneda&set sbmonth=August&set sbday=13&set sbyear=2006&set srstat=Single&set sgender=Male& set psname=true& set psbdate=true& set psrs=true& set psgender=true
+if "%choice%"=="2" set userchoice=nilmar&set done=true&set sfname=Nilmar &set smname=false&set slname=Yape&set sbmonth=November&set sbday=1&set sbyear=2004&set srstat=Single&set sgender=Male& set psname=true& set psbdate=true& set psrs=true& set psgender=true
